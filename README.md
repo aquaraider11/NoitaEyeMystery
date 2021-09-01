@@ -8,8 +8,11 @@ add this code to JS field
 set canvas size to be large enough, i recommend `width="1500" height="1500"`
 
 You can change line 43 second parameter of `db()`to be whatever you want to be written next to each point, currently it is 
+
 x : y where
+
 x = how many "moves" since last point
+
 y = how many total "points"
 
 
